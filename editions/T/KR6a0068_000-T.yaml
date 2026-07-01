@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6a0068/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 賴吒和羅經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T01/T01n0068.xml
+    old_id: T01n0068
+hash: sha256:28d229518397f97c80b6454cb57c7f3f903fa175fcda3a673ab662c6c932ac7c

@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6a0068/T/v1
+canonical_location: https://kanripo.org/bkk/KR6a0068/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 賴吒和羅經
+  identifiers:
+    krp: KR6a0068
+    cbeta: T01n0068
+    cbeta_old_id: T01n0068
+    authorityid: CA0001928
+    json_key: T0068
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T01/T01n0068.xml
+    old_id: T01n0068
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6a0068_000-T.yaml, hash: 'sha256:28d229518397f97c80b6454cb57c7f3f903fa175fcda3a673ab662c6c932ac7c'}
+  - {seq: 1, filename: KR6a0068_001-T.yaml, hash: 'sha256:dd72005ebde74cd817d997421fa61d931a99ba73cd58194567b0741afde7f541'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6a0068_000-T.markers.yaml, hash: 'sha256:7057290c2cfb20070c5c005a43b529df49e351d8e2d29018eda849d80982968c'}
+  - {seq: 1, role: markers, filename: assets/KR6a0068_001-T.markers.yaml, hash: 'sha256:bbb4057c36b714688084e2332b760ab6d7f69438e2878c4bdbdeb2b4fbd88b29'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6a0068_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 4618
+  label: 佛說賴吒和羅經
+  type: juan
+  level: 1
+hash: sha256:4324a72763a47d95a64fda62a14aa5490dc209dbe28d467f5d3e71f5acdf7dc4
