@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6a0068/v1
 canonical_location: https://kanripo.org/bkk/KR6a0068/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 賴吒和羅經
   identifiers:
@@ -31,10 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6a0068_000.yaml, hash: 'sha256:28d229518397f97c80b6454cb57c7f3f903fa175fcda3a673ab662c6c932ac7c'}
-  - {seq: 1, filename: KR6a0068_001.yaml, hash: 'sha256:dd72005ebde74cd817d997421fa61d931a99ba73cd58194567b0741afde7f541'}
+  - {seq: 1, filename: KR6a0068_001.yaml, hash: 'sha256:72cd1317dfd54a9451cd12fee2e57713d96aa04bca45648dc47ebda643c43c66'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6a0068_000.markers.yaml, hash: 'sha256:b8f3d22472a77eb398f267823a4ae7e79a6a552591534669fcf15bde1edee9cc'}
-  - {seq: 1, role: markers, filename: assets/KR6a0068_001.markers.yaml, hash: 'sha256:fc2fe29dbb60df340034e5f217b9b38ddef92f5b6f337015689c009d28b90037'}
+  - {seq: 1, role: markers, filename: assets/KR6a0068_001.markers.yaml, hash: 'sha256:6a2651f6088ddd6798894982359d572491dc1358f4e1fc545916f9b8f7eac976'}
 table_of_contents:
 - ref:
     seq: 1
@@ -46,4 +46,7 @@ table_of_contents:
   label: 佛說賴吒和羅經
   type: juan
   level: 1
-hash: sha256:c5ff99bec27ae7b8ea7940c3ba75cf22079c242c5688d7abb75c3691175ccb3b
+hash: sha256:52eb6b04cebc30d3f89449fddc696f0947275015bf13c5c106ba8104d95f5be9
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
